@@ -1,5 +1,3 @@
-//copilot, add box for each image,
-
 ![cyber-street](cyber-street.jpg)
 ![giant](giant.jpg)
 ![japanese-1](japanese-1.jpg)
